@@ -1,0 +1,1 @@
+Đồ án thực hành sẽ làm theo những yêu cầu trong "Yêu cầu phần mềm quản lí đội xe". Source code và các tài liệu liên quan của đồ án thực hành (Quản lí đội xe) nên được đưa lên server SVN. Giảng viên sẽ kiểm tra định kì để theo dõi tiến độ thực hiện. Dự kiến nộp bài hoàn chỉnh: 2 tuần sau.
